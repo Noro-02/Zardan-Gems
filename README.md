@@ -1,6 +1,6 @@
 # Zardan Gems
 
-This repository contains PDF screenshots of **Zardan Gems**, an online gems store website I developed as part of a client project assigned by my manager.
+This repository contains screenshots of **Zardan Gems**, an online gems store website I developed as part of a client project assigned by my manager.
 
 ##  Project Overview
 
@@ -16,7 +16,7 @@ This repository contains PDF screenshots of **Zardan Gems**, an online gems stor
 
 ## Demo Details
 
-This repository includes PDF screenshots of the website design for reference only, as the project is hosted privately and is not accessible online.
+This repository includes screenshots of the website design for reference only, as the project is hosted privately and is not accessible online.
 
 ## Note
 
